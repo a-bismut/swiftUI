@@ -100,3 +100,13 @@ struct ActionView: View {
 }
 
 let screen = UIScreen.main.bounds
+
+// Тестовый варинат
+
+/*
+ 
+ ,,,,,
+ ,,,,
+ 
+ 
+ */
